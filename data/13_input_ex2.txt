@@ -1,0 +1,4 @@
+ABCA
+DBAC
+CCCB
+DABB
